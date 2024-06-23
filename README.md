@@ -1,5 +1,5 @@
 # judesworkshop 2024
-Written by Jude
+Made by @judelotus
 
-This repository was made only for my socials page, I might use this page in the future but im not sure.
-For now it is only for my site.
+⚠️ You are in the repository website
+This repository is made for the website: 
